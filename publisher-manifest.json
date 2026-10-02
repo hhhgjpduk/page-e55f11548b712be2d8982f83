@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "38ecea5cfa9593876e05d35b",
+  "owner": "hhhgjpduk",
+  "repo": "page-e55f11548b712be2d8982f83",
+  "title": "养猪场",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e55f11548b712be2d8982f83",
+      "a": "养猪场",
+      "b": "",
+      "entity": "养猪场",
+      "brand": "养猪场",
+      "separator": "",
+      "path": "index.html",
+      "hash": "b5ca611faa378f9cea290c6b272074b9d2e28463998a642e525018dbbda7eb85",
+      "content": {
+        "keyword1": "养猪场",
+        "keyword2": "",
+        "primary_entity": "养猪场",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "养猪场提供高速稳定的机场订阅与VPN网络加速服务，涵盖多套餐流量、全球优质节点及Windows/iOS/Android全平台客户端官方下载，助力流媒体、游戏与办公场景。",
+          "AI_DESCRIPTION": "养猪场提供高速稳定的机场订阅与VPN网络加速服务，涵盖多套餐流量、全球优质节点及Windows/iOS/Android全平台客户端官方下载，助力流媒体、游戏与办公场景。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;font-size:16px;line-height:1.65;background:#F6F3EC;color:#222;word-wrap:break-word}header{background:#1B4B32;color:#F0F5EE;padding:14px 18px}.brand{font-size:1.35rem;font-weight:700;letter-spacing:1px}nav{margin-top:10px;display:flex;flex-wrap:wrap;gap:10px 14px}nav a{color:#D4E8D6;text-decoration:none;font-size:0.95rem}main{padding:10px 0 40px}h1{font-size:1.75rem;color:#1B4B32;text-align:center;padding:24px 16px 8px;line-height:1.3}.wrap{max-width:920px;margin:0 auto;padding:0 16px}h2{font-size:1.35rem;color:#143D28;margin:32px 0 14px;padding-bottom:6px;border-bottom:3px solid #2E6B45}h3{font-size:1.12rem;color:#1B4B32;margin:18px 0 8px}p{margin:10px 0}ul{margin:8px 0 12px 22px}.row{display:flex;flex-wrap:wrap;gap:18px;margin:18px 0}.col{flex:1 1 260px;background:#fff;padding:16px;border-radius:8px;border:1px solid #C9D9C4}@media(min-width:640px){.reverse{flex-direction:row-reverse}}.plans{display:flex;flex-wrap:wrap;gap:16px;justify-content:center}.plan{flex:1 1 240px;background:#fff;border:2px solid #A8C4A4;border-radius:10px;padding:18px}.plan.featured{background:#1B4B32;color:#F4F8F2;border-color:#0D2E1C}.plan h3{margin-top:0}.price{font-size:1.4rem;font-weight:700;color:#1B4B32;margin:8px 0}.featured .price,.featured h3,.featured p,.featured li{color:#F4F8F2}.annual{font-size:0.9rem}details{background:#E4EDE3;border:1px solid #B7CDB3;border-radius:6px;margin:10px 0;padding:4px 12px 10px}summary{font-weight:600;color:#1B4B32;padding:8px 0}.faq-wrap{background:#E8F0E6;padding:16px;border-radius:8px;margin-top:12px}footer{background:#1B4B32;color:#D0E4D2;padding:24px 16px;font-size:0.9rem}footer a{color:#A8D4B0;margin-right:12px}.sitemap ul{list-style:none;margin-left:0;display:flex;flex-wrap:wrap;gap:8px 16px}.ad-box{background:#DFE8DC;border:1px dashed #7A9B76;padding:14px;text-align:center;margin:20px 0;border-radius:6px}.link-list{display:flex;flex-wrap:wrap;gap:10px 20px;margin:10px 0}a{color:#1A5C38}</style><header><div class=\"wrap\"><div class=\"brand\">养猪场</div><nav><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐价格</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a></nav></div></header><main><div class=\"wrap\"><h1>养猪场 – 官方机场 VPN 梯子与网络加速服务</h1><section id=\"intro\"><h2>品牌简介</h2><div class=\"row\"><div class=\"col\"><p>养猪场是面向个人与团队用户的专业网络加速平台，提供机场订阅服务与多协议 VPN 客户端支持。我们自建并维护覆盖亚洲、北美、欧洲的优质节点，强调线路纯净、峰值稳定与流媒体兼容。</p><p>作为官方网站，养猪场坚持透明定价与即时开通。用户购买后即可获取通用订阅链接，导入 Clash、Shadowrocket、Surge 等主流客户端即可使用。我们不捆绑多余软件，专注加速体验本身。</p></div><div class=\"col\"><p>服务特色包括智能分流、UDP 转发支持以及针对游戏与视频的专项优化。无论您身处国内访问国际资源，还是需要低延迟跨境连接，养猪场都能提供相应解决方案。</p><p>请收藏本官网，所有套餐购买、续费及客户端更新信息均在此发布。谨防仿冒站点。</p></div></div></section><section id=\"plans\"><h2>套餐与价格</h2><p>以下套餐支持按月或年付，年付享受约两个月优惠。所有套餐含基础加密传输与故障转移。</p><div class=\"plans\"><div class=\"plan\"><h3>基础版</h3><div class=\"price\">¥15/月</div><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><p>适合轻度使用与入门体验。</p></div><div class=\"plan featured\"><h3>旗舰版</h3><div class=\"price\">¥35/月</div><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><p>日常主力推荐，平衡流量与性能。</p></div><div class=\"plan\"><h3>团队版</h3><div class=\"price\">¥85/月</div><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><p>家庭共享或小团队首选。</p></div></div></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"row\"><div class=\"col\"><h3>海外流媒体与视频</h3><p>旗舰版全节点支持 Netflix、Disney+、YouTube Premium、Prime Video 等平台的原生解锁，减少缓冲，支持高清播放。适合追剧与纪录片爱好者。</p></div><div class=\"col\"><h3>在线游戏加速</h3><p>借助 IPLC 专线，养猪场为热门游戏提供更低延迟通道。无论是射击类还是开放世界，节点选择丰富，晚高峰仍保持可用带宽。</p></div></div><div class=\"row reverse\"><div class=\"col\"><h3>远程办公与学习</h3><p>稳定访问协作套件、代码托管、学术数据库及视频会议工具。加密传输保护隐私，适合科研人员、开发者与跨境工作者。</p></div><div class=\"col\"><h3>社交媒体与日常浏览</h3><p>快速加载国际资讯、社交平台与购物网站。智能分流让国内站点直连，国际流量走加速通道，节省流量同时提升体验。</p></div></div></section><section id=\"guide\"><h2>操作说明</h2><h3>一、选择并获取订阅</h3><p>在本页套餐区域了解规格后，通过官方渠道完成购买。支付成功后，用户中心会生成专属订阅链接（支持 Clash、V2Ray、Shadowsocks 等多种格式）。请妥善保存，勿泄露给他人。</p><h3>二、下载并安装客户端</h3><p>根据您的设备前往下方客户端下载选择对应版本。Windows 用户推荐 Meta 内核应用，iOS 需使用外区账号下载 Shadowrocket 或类似工具，Android 可使用开源 Clash 衍生客户端。</p><h3>三、导入订阅并更新节点</h3><p>打开客户端，进入配置或订阅管理，粘贴链接并保存。点击更新获取最新节点列表。建议开启自动更新以便线路调整后及时同步。</p><h3>四、选择节点并连接</h3><p>根据延迟测试或地理位置选择节点。首次建议开启系统代理模式，确认浏览器或应用已走代理后再切换全局或规则模式。遇到问题先切换节点或重启客户端。</p></section><section id=\"download\"><h2>客户端官方下载</h2><p>以下为养猪场推荐的常用客户端。所有说明链接指向本页锚点，实际安装包请从各客户端项目官方来源获取并核对校验。本站提供配置兼容指导，不直接托管第三方安装文件。</p><div class=\"row\"><div class=\"col\"><h3>桌面端</h3><p>Windows：Clash Verge 等 Meta 内核客户端。<a href=\"#guide\">查看说明</a></p><p>macOS：ClashX.Meta 或 Surge。<a href=\"#guide\">查看说明</a></p><p>Linux：sing-box 或 Clash 图形前端。<a href=\"#guide\">查看说明</a></p></div><div class=\"col\"><h3>移动端</h3><p>iOS / iPadOS：Shadowrocket、Stash、Quantumult X。<a href=\"#guide\">查看说明</a></p><p>Android：Clash Meta for Android、NekoBox。<a href=\"#guide\">查看说明</a></p><p>路由器与电视：OpenWrt 插件或 TV 版客户端。<a href=\"#guide\">查看说明</a></p></div></div><p>导入时选择对应协议订阅即可。配置细节见操作说明与常见问题。</p></section><section><h2>线路与节点概况</h2><p>养猪场目前运营多条优化线路，包括香港、日本、新加坡、美国西海岸、德国与台湾等地节点。部分套餐开放 IPLC 内网专线，适合对延迟敏感的应用。我们持续监测质量并轮换受干扰线路，保持整体可用性。具体节点名称与负载在客户端更新后可见。</p></section><section id=\"faq\"><h2>常见问题</h2><p>以下整理了用户咨询最多的问题，建议收藏本页以便随时查阅。常见问题为本站重点说明区域。</p><div class=\"faq-wrap\"><details><summary>养猪场是唯一官方网站吗？如何避免上当？</summary><p>是的，本页面为养猪场官方网站。请通过您信任的入口访问，并核对页面所展示的套餐价格与服务说明。我们不会以明显低于市场的价格在非官方渠道销售。遇可疑链接请停止操作。</p></details><details><summary>购买后怎样下载并使用客户端？</summary><p>完成订阅后，复制用户中心提供的订阅地址。下载与您系统匹配的客户端（见本页下载区），在客户端内添加该订阅并更新。随后选择一个延迟较低的节点开启连接即可。不同客户端菜单名称略有差异，但流程类似。</p></details><details><summary>三个套餐分别适合什么用户？流量够用吗？</summary><p>基础版每月 100GB、3 设备，适合偶尔看视频和浏览的用户。旗舰版 300GB、5 设备并含专线与全解锁，是大多数个人用户的选择。团队版 1000GB、20 设备适合家庭或小型工作室。流量按套餐周期重置，高强度播放或多人共享请预估用量后选择。</p></details><details><summary>支持哪些流媒体和游戏加速？</summary><p>旗舰与团队套餐强调全节点原生解锁主流流媒体，并提供游戏向 IPLC 优化线路，降低丢包与抖动。基础版以普通国际线路为主，部分热门平台可用。实际效果随地区与时段变化，可在客户端切换节点测试。</p></details><details><summary>设备数量超限或连接不稳定怎么办？</summary><p>请先确认在线设备未超过套餐限制，关闭不用的终端。不稳定时可更新订阅、更换节点或切换客户端内核。持续故障请通过工单描述设备、客户端版本与错误现象，旗舰及以上用户将获得优先处理。</p></details><details><summary>如何续费、升级或处理流量用尽？</summary><p>在官方用户中心可对当前套餐续费或升级。年付用户到期前会有提醒。流量用尽后连接会受限，升级即时生效补充额度。新购未实际使用的短时申请可按购买页说明处理。</p></details></div></section><div class=\"ad-box\" id=\"ads\"><p><strong>广告合作</strong></p><p>养猪场官网接受与网络工具、跨境服务相关的文字合作展示。有意向的品牌可通过官方指定方式洽谈。我们注重阅读体验，拒绝干扰性推广。</p></div><section id=\"links\"><h2>友情链接</h2><div class=\"link-list\"><a href=\"#\">客户端使用教程</a><a href=\"#\">代理协议说明</a><a href=\"#\">网络优化知识</a><a href=\"#\">开源工具导航</a><a href=\"#\">隐私保护指南</a></div><p>友链均为信息参考，不代表养猪场官方背书，访问请注意自身安全。</p></section></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><div id=\"sitemap\" class=\"sitemap\"><h3>网站地图</h3><ul><li><a href=\"#\">首页</a></li><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#plans\">套餐价格</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#guide\">操作说明</a></li><li><a href=\"#download\">客户端下载</a></li><li><a href=\"#faq\">常见问题</a></li><li><a href=\"#links\">友情链接</a></li></ul></div><p>养猪场官方网站 · 机场订阅与 VPN 网络加速服务<br>本站提供套餐说明、操作指南及客户端兼容信息。请合法合规使用网络加速工具。</p><p>© 养猪场 版权所有</p></div></footer>",
+          "hash": "9fa2a4a8e9691508f22c502d8d1a173389b41c96009566b8768444cafb4a696e",
+          "seo": {
+            "title": "养猪场官网 | VPN梯子网络加速器机场订阅与客户端下载",
+            "keywords": "养猪场,养猪场机场,养猪场VPN,养猪场官网,VPN梯子,网络加速,加速器,客户端下载,机场订阅,官方下载",
+            "description": "养猪场提供高速稳定的机场订阅与VPN网络加速服务，涵盖多套餐流量、全球优质节点及Windows/iOS/Android全平台客户端官方下载，助力流媒体、游戏与办公场景。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "chonganrc.cn",
+    "host": "p-1152797bc5.chonganrc.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "chonganrc.cn",
+      "url": "https://chonganrc.cn/",
+      "label": "星愿云(SWCloud)",
+      "apex": "chonganrc.cn",
+      "kind": null,
+      "identity": "pupnjnqu/page-43aa52e98e455066d8a7b165"
+    },
+    {
+      "host": "miccs.cn",
+      "url": "https://miccs.cn/",
+      "label": "养猪场",
+      "apex": "miccs.cn",
+      "kind": null,
+      "identity": "qujuvbnxk/page-2954b7ff2d79954fe412b315"
+    },
+    {
+      "host": "mlqfs.cn",
+      "url": "https://mlqfs.cn/",
+      "label": "养猪场",
+      "apex": "mlqfs.cn",
+      "kind": null,
+      "identity": "qkhysdcbd/page-aa457197b3fa06fce644b46a"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "b1723756fd2ef34bbc62eed9cbf93d7608ae5a043fbd8ddf94a2fb8e16b9f989",
+    "sitemap.xml": "96adb7d06e33dc0f7e799821e57b4cbc1c40ca1ba43163796281814dde66ad24",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "5c694267bfa887f50f0e14569e2818b15c0898fc7a9289af92a3afa82d260957",
+    "robots.txt": "9f1582d7b090fd8309251860bde39b45a57bed52ec8e56e922853b9cc1277c33",
+    "d794df6318af8a51ac30418c8644fc66.txt": "4783d6ce5170948df1bd727558a27e22ecc36f03be38f3a425e655cfefe0822d"
+  },
+  "revision": "6998da81b70e2d2bed2145f7c2da62947e3c52ccb9faeee8d7d6c215b465ddb4"
+}
